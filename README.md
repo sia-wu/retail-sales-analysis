@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-**Status:** In progress
+**Key finding:** Among full months, sales peaked in November 2011 at £1,509,496.33, up 30.7% from October.
 
 ## Business Question
 How did monthly sales change for a UK-based online retailer?
