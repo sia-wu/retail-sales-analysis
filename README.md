@@ -15,3 +15,10 @@ How did monthly sales change for a UK-based online retailer?
 
 ## Limitation
 December 2011 includes only the first nine days of the month.
+
+## How to Run
+1. Download the UCI Online Retail dataset linked above and extract `Online Retail.xlsx`.
+2. Place the Excel file in the same folder as `sales_analysis.py`.
+3. From that folder, run `python3 -m pip install pandas openpyxl`, then `python3 sales_analysis.py`.
+
+The script generates `monthly_sales.csv`.
